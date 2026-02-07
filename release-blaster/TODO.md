@@ -1,18 +1,20 @@
 # Release Blaster - 9 Day Sprint
 
 ## Day 1 (Feb 5) - Foundation
-- [ ] Create kaijutools org
-- [ ] Create kaijutools/projects (meta repo)
+
+- [x] Create kaijutools org
+- [x] Create kaijutools/projects (meta repo)
 - [ ] Create kaijutools/integrations (OSS)
-- [ ] Create shipit/release-blaster-backend (private)
+- [x] Create shipit/release-blaster-backend (private)
 - [ ] Create shipit/release-blaster-frontend (private)
 - [ ] Setup Supabase project
-- [ ] Deploy backend to Cloud Run (hello world)
+- [x] Deploy backend to Cloud Run (hello world)
 - [ ] Deploy frontend to Vercel (landing page)
 - [ ] Write blog: "Building Release Blaster: Day 1"
 - [ ] Tweet: Day 1 progress
 
 ## Day 2 (Feb 6) - App Store Connect
+
 - [ ] Research: App Store Connect API (JWT auth)
 - [ ] Build: Backend POST /api/apps/:id/connect/appstore
 - [ ] Build: Store encrypted credentials in Supabase
@@ -24,6 +26,7 @@
 - [ ] Tweet: Day 2 progress
 
 ## Day 3 (Feb 7) - Stripe Integration
+
 - [ ] Research: Stripe API (OAuth or API key)
 - [ ] Build: Backend POST /api/apps/:id/connect/stripe
 - [ ] Build: Fetch revenue data by date range
@@ -35,6 +38,7 @@
 - [ ] Tweet: Day 3 progress
 
 ## Day 4 (Feb 8) - Revenue Attribution
+
 - [ ] Build: Release impact calculator (before/after comparison)
 - [ ] Build: Statistical significance test (t-test)
 - [ ] Build: Confidence scoring algorithm
@@ -45,6 +49,7 @@
 - [ ] Tweet: Day 4 progress
 
 ## Day 5 (Feb 9) - Claude API Integration
+
 - [ ] Setup: Claude API credentials
 - [ ] Build: Backend function to call Claude
 - [ ] Write: Prompt template for release analysis
@@ -56,6 +61,7 @@
 - [ ] Tweet: Day 5 progress
 
 ## Day 6 (Feb 10) - Polish Core Flow
+
 - [ ] Build: Dashboard (list of releases)
 - [ ] Build: Release detail view (full analysis)
 - [ ] Build: Settings page (manage connections)
@@ -66,6 +72,7 @@
 - [ ] Tweet: Day 6 progress
 
 ## Day 7 (Feb 11) - Firebase/Crashlytics
+
 - [ ] Research: Firebase API or Sentry
 - [ ] Build: Backend POST /api/apps/:id/connect/firebase
 - [ ] Build: Fetch crash data by date range
@@ -77,6 +84,7 @@
 - [ ] Tweet: Day 7 progress
 
 ## Day 8 (Feb 12) - Launch Prep
+
 - [ ] Write: Landing page copy (clear value prop)
 - [ ] Record: 2-minute demo video (Loom)
 - [ ] Write: HN launch post (draft)
@@ -88,6 +96,7 @@
 - [ ] Tweet: Day 8 progress
 
 ## Day 9 (Feb 13) - Soft Launch
+
 - [ ] Fix: Top 3 critical bugs
 - [ ] Test: Have 3 friends sign up and try it
 - [ ] Fix: Based on their feedback
@@ -98,6 +107,7 @@
 - [ ] Tweet: Day 9 progress
 
 ## Day 10 (Feb 14) - LAUNCH DAY
+
 - [ ] Fix: Top 3 bugs from yesterday
 - [ ] Fix: Top 2 UX issues from yesterday
 - [ ] Test: Happy path works perfectly
@@ -110,13 +120,16 @@
 - [ ] Respond: To every question/comment
 
 ## BLOCKED / QUESTIONS
+
 (Add items here when stuck)
 
 ## NOTES
+
 - Moving to Houston: Feb 15-25 (10 days blocked)
 - Must ship by Feb 14 EOD
 - Blog all at: shipatwarp.com
 - Product at: kaiju.tools
 
 ## DONE
+
 (Move completed days here for motivation)
